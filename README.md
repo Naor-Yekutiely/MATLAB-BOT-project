@@ -22,3 +22,5 @@ that is, the vector contains the values ​​of Δ𝑥 and Δ𝑦. The robot us
 ## Constraints:
 The function (robot) is not allowed to maintain the previous state of the game. That is, all decisions about the direction and size of the movement are based on
 Current game status.
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i %2B\pi} =x%2B1">
