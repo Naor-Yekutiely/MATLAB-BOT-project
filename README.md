@@ -10,11 +10,10 @@ at this point the robot that has more fuel will be declared as the winner.
 - If the robot has reached a fuel tank, the amount of fuel in the robot increases according to the amount of fuel in the tank.
 - If the robot has reached a bomb(mine), the amount of fuel of the robot decreases.
 
-
+## Battle between two robots:
 ![Screenshot 2021-04-13 185041](https://user-images.githubusercontent.com/82441934/114582399-3941d380-9c89-11eb-99d0-8d1a8ebe2b1c.png)
-<br/>Figure 1.Battle between two robots (circles), the dotted lines show the robots' way when they avoid bombs
-Asterisks (and looking for fuel tanks) circles.
-
+<br/>Figure 1. Battle between two robots (filled circles), the dotted lines show the robots' path when they avoid bombs
+(Asterisks) and looking for fuel tanks (circles with the amount of fuel in them).
 
 The robot (robostrategy function) has full access to all the information about the game mode; that is, the robot knows:
 - The location and size of each bomb(mine) and fuel tank
@@ -32,3 +31,4 @@ current game status.
 
 ## Algorithm flowchart:
 ![Flowchart](https://user-images.githubusercontent.com/82441934/114581774-ac971580-9c88-11eb-9d54-d0c3208a6261.png)
+<br/>Figure 2. robostrategy_Naor Algorithm's flowchart
