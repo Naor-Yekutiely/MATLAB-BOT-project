@@ -25,3 +25,5 @@ The function (robot) is not allowed to maintain the previous state of the game. 
 Current game status.
 
 <img src="https://render.githubusercontent.com/render/math?math=(deltax)^2 +(\delta y)^2 +2>
+
+$\alpha$
