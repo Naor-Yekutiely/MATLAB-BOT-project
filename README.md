@@ -18,7 +18,7 @@ The robot (robostrategy function) has full access to all the information about t
 
 Each function (robot) is called in turn's and it must return a 2x1 vector that describes the movement that the robot wants to perform Next: 
 that is, the vector contains the values ​​of Δ𝑥 and Δ𝑦. The robot uses fuel for its movement:
-the cost of fuel per step depends on The step size - Δ𝑥<sup>2</sup> + Δ𝑦<sup>2</sup> + 2
+the cost of fuel per step depends on the step size - Δ𝑥<sup>2</sup> + Δ𝑦<sup>2</sup> + 2
 
 ## Constraints:
 The function (robot) is not allowed to maintain the previous state of the game. That is, all decisions about the direction and size of the movement are based on
