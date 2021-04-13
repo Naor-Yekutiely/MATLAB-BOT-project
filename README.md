@@ -24,4 +24,5 @@ the cost of fuel per step depends on the step size - Δ𝑥<sup>2</sup> + Δ𝑦
 The function (robot) is not allowed to maintain the previous state of the game. That is, all decisions about the direction and size of the movement are based on
 current game status.
 
-![alt text](https://github.com/[Naor-Yekutiely]/[MATLAB-BOT-project]/blob/[main]/Flowchart.png?raw=true)
+## Algorithm flowchart:
+![Flowchart](https://user-images.githubusercontent.com/82441934/114581774-ac971580-9c88-11eb-9d54-d0c3208a6261.png)
