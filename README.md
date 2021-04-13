@@ -23,4 +23,4 @@ that is, the vector contains the values ​​of Δ𝑥 and Δ𝑦. The robot us
 The function (robot) is not allowed to maintain the previous state of the game. That is, all decisions about the direction and size of the movement are based on
 Current game status.
 
-<img src="https://render.githubusercontent.com/render/math?math=(Δ𝑥)^2 + (Δ𝑦)^2 +2">
+<img src="https://render.githubusercontent.com/render/math?math=()^2 + ()^2 +2">
