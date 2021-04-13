@@ -31,4 +31,5 @@ current game status.
 
 ### Algorithm flowchart:
 ![Flowchart](https://user-images.githubusercontent.com/82441934/114581774-ac971580-9c88-11eb-9d54-d0c3208a6261.png)
-<br/>Figure 2. robostrategy_Naor Algorithm's flowchart
+<br/>Figure 2. robostrategy_Naor Algorithm's flowchart - the flowchart shows the decision making process for a single move(step). There for, the process repeat's 
+itself until the battle is over.
