@@ -8,7 +8,7 @@ at this point the robot that has more fuel will be declared as the winner.
 - At each step of the game, the robot must decide which direction to move and which distance.
 - In each turn, the robot loses fuel as a function of the distance it moves.
 - If the robot has reached a fuel tank, the amount of fuel in the robot increases according to the amount of fuel in the tank.
-- If the robot has reached the bomb(mine), the amount of fuel of the robot decreases.
+- If the robot has reached a bomb(mine), the amount of fuel of the robot decreases.
 
 The robot (robostrategy function) has full access to all the information about the game mode; that is, the robot knows:
 - The location and size of each bomb(mine) and fuel tank
@@ -22,5 +22,6 @@ the cost of fuel per step depends on the step size - Δ𝑥<sup>2</sup> + Δ𝑦
 
 ## Constraints:
 The function (robot) is not allowed to maintain the previous state of the game. That is, all decisions about the direction and size of the movement are based on
-Current game status.
+current game status.
 
+![alt text](https://github.com/[Naor-Yekutiely]/[MATLAB-BOT-project]/blob/[main]/Flowchart.png?raw=true)
