@@ -26,4 +26,4 @@ Current game status.
 
 <img src="https://render.githubusercontent.com/render/math?math=(deltax)^2 +(\delta y)^2 +2>
 
-$\alpha$
+$\alpha$  	\alpha
