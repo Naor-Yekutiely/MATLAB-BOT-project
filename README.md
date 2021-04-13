@@ -12,7 +12,7 @@ at this point the robot that has more fuel will be declared as the winner.
 
 
 ![Screenshot 2021-04-13 185041](https://user-images.githubusercontent.com/82441934/114582399-3941d380-9c89-11eb-99d0-8d1a8ebe2b1c.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure 1.Battle between two robots (circles), the dotted lines show the robots' way when they avoid bombs
+Figure 1.Battle between two robots (circles), the dotted lines show the robots' way when they avoid bombs
 Asterisks (and looking for fuel tanks) circles.
 
 
