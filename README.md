@@ -24,4 +24,4 @@ the cost of fuel per step depends on The step size - Δ𝑥^{2} + Δ𝑦^{2} + 2
 The function (robot) is not allowed to maintain the previous state of the game. That is, all decisions about the direction and size of the movement are based on
 Current game status.
 
-Δ𝑥<sup>2</sup> + Δ𝑦<sup>2</sup + 2
+Δ𝑥<sup>2</sup> + Δ𝑦<sup>2</sup> + 2
